@@ -19,11 +19,11 @@
 
         <config-file target="res/xml/config.xml" parent="/widget">        
             <feature name="FileChooser">
-                <param name="android-package" value="com.megster.cordova.FileChooser"/>
+                <param name="android-package" value="com.encoral.cordova.FileChooser"/>
             </feature> 
         </config-file> 
                 
-        <source-file src="src/android/FileChooser.java" target-dir="src/com/megster/cordova"/>
+        <source-file src="src/android/FileChooser.java" target-dir="src/com/encoral/cordova"/>
                         
     </platform>
     
